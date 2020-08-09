@@ -1,2 +1,2 @@
 # Store-database-
-Databse script in pyton
+Databse script in python
